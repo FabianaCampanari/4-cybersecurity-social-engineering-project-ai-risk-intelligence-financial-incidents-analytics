@@ -34,8 +34,32 @@
 </p>
 
 
-<br><br>
 <!-- ========= END DashBoar -->
+
+  
+<p align="center">
+  <a href="https://luxury-taffy-7cbd89.netlify.app/">
+    <img 
+      src="https://img.shields.io/badge/View_Presentation-Slides-14b8a6?style=for-the-badge&logo=googleslides&logoColor=white" 
+      alt="View Presentation"
+      style="height: 30px; width: auto;"
+    />
+  </a>
+
+  <a href="">
+    <img 
+      src="https://img.shields.io/badge/View_PowerPoint-Deck-06b6d4?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" 
+      alt="View PowerPoint"
+      style="height: 30px; width: auto;"
+    />
+  </a>
+</p>
+<!-- ========= END PPTX -->
+
+<br><br><br><br>
+
+<!-- ========= END BADGEO ========= -->
+
 
 
 <!-- ========= START Institucional INFO ========= -->
