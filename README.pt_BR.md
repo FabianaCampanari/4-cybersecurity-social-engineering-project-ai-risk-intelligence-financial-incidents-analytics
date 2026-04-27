@@ -21,6 +21,23 @@
 <!-- ========= END REPO TITLE ========= -->
 
 
+<!-- ========= Start Dashboard ========= -->
+
+<p align="center">
+  <a href="https://ai-incidents-financial-services.streamlit.app/">
+    <img 
+      src="https://img.shields.io/badge/AI_Incident_Risk_Dashboard_Banking_&_Financial_Services-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square" 
+      alt="AI Incident Risk Dashboard – Banking & Financial Services"
+      style="height: 30px; width: auto;"
+    />
+  </a>
+</p>
+
+
+<br><br>
+<!-- ========= END DashBoar -->
+
+
 <!-- ========= START Institucional INFO ========= -->
 
 
