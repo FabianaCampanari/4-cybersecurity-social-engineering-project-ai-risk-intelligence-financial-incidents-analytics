@@ -21,41 +21,21 @@
 <!-- ========= END REPO TITLE ========= -->
 
 
+<!-- ========= Start Dashboard ========= -->
 
-
-
-<!-- ========= Start BADGES ========= -->
 <p align="center">
   <a href="https://ai-incidents-financial-services.streamlit.app/">
     <img 
-      src="https://img.shields.io/badge/AI_Incident_Risk_Dashboard-Banking_%26_Financial_Services-brightgreen?logo=streamlit&logoColor=white&style=for-the-badge" 
-      alt="AI Incident Risk Dashboard"
-      height="38"
-    />
-  </a>
-
-  <a href="https://luxury-taffy-7cbd89.netlify.app/">
-    <img 
-      src="https://img.shields.io/badge/View_Presentation-Slides-14b8a6?style=for-the-badge&logo=googleslides&logoColor=white" 
-      alt="View Presentation"
-      height="38"
-    />
-  </a>
-
-  <a href="">
-    <img 
-      src="https://img.shields.io/badge/View_PowerPoint-Deck-2dd4bf?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" 
-      alt="View PowerPoint"
-      height="38"
+      src="https://img.shields.io/badge/AI_Incident_Risk_Dashboard_Banking_&_Financial_Services-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square" 
+      alt="AI Incident Risk Dashboard – Banking & Financial Services"
+      style="height: 30px; width: auto;"
     />
   </a>
 </p>
 
 
-<br><br><br><br>
-<!-- ========= ENDT BADGES ========= -->
-
-
+<br><br>
+<!-- ========= END DashBoar -->
 
 
 <!-- ========= START Institucional INFO ========= -->
