@@ -104,7 +104,17 @@
 
 
 <br><br>
-<!-- ========= END START BADGES ========= -->
+<!-- ========= END  BADGES ========= -->
+
+
+
+<!-- ========= START DEMO VIDEO ========= -->
+
+https://github.com/user-attachments/assets/5d3c33b0-166e-414c-a561-8e8dd509be3d
+
+<br><br><br><br>
+<!-- ========= END DEMO VIDEO ========= -->
+
 
 The project is aligned with the course because it examines AI not only as a computational tool, but as a socio-technical risk layer embedded in highly regulated financial systems. In this context, failures in AI-driven applications such as credit scoring, fraud detection, trading systems and automated decision-making may generate algorithmic bias, operational disruption, regulatory exposure and harm to customers.
 
