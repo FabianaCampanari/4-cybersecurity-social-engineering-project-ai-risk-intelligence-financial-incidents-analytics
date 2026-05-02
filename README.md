@@ -24,30 +24,33 @@
 <!-- ========= END REPO TITLE ========= -->
 
 
-<!-- ========= Start Dashboard ========= -->
+<!-- ========= Start Dashboard Streamlit ========= -->
+
 
 <p align="center">
-  <a href="https://ai-incidents-financial-services.streamlit.app/">
+  <a href="" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/AI_Incident_Risk_Dashboard_Banking_&_Financial_Services-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square" 
+      src="https://img.shields.io/badge/AI_Incident_Risk_Dashboard_Banking_&_Financial_Services-Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=white" 
       alt="AI Incident Risk Dashboard – Banking & Financial Services"
-      style="height: 30px; width: auto;"
+      style="height: 32px; width: auto;"
     />
   </a>
 </p>
 
 
-<!-- ========= END DashBoar -->
+<!-- ========= END DashBoar Streamlit -->
 
-  
+
 <p align="center">
-  <a href="https://luxury-taffy-7cbd89.netlify.app/">
+  <a href="https://celebrated-faun-c3f0a2.netlify.app/">
     <img 
       src="https://img.shields.io/badge/View_Presentation-Slides-14b8a6?style=for-the-badge&logo=googleslides&logoColor=white" 
-      alt="View Presentation"
+      alt="Frontend React DOM"
       style="height: 30px; width: auto;"
     />
   </a>
+
+
 
   <a href="https://docs.google.com/presentation/d/1wuR9X_ZuLUC2U2qtaqYrDIb157EfPLxe/edit?usp=sharing&ouid=116111056943857458728&rtpof=true&sd=true">
     <img 
