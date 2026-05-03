@@ -234,7 +234,7 @@ Este projeto foi construído a partir de incidentes reais documentados no[**AI I
 
 <br>
 
-### [1.2 **Problema de pesquisa**]()
+### 1.2 [**Problema de pesquisa**]()
 
 Dado um conjunto de incidentes de IA registrados em múltiplos setores e filtrados para o domínio financeiro, o problema central é avaliar se:
 
@@ -294,7 +294,7 @@ Avaliar, com base em dados estruturados de incidentes de IA no setor financeiro,
 <br><br>
 
 
-### 2.) [Hipóteses de pesquisa]()
+### 2.3 [Hipóteses de pesquisa]()
 
 <br>
 
