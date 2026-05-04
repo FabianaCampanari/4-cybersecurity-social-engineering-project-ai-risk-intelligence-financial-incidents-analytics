@@ -9,4 +9,4 @@ flake8>=7.0.0
 
 # Dev environment
 ipython>=8.12.0
-jupyter>=1.0.0
+jupyter>=1.1.1
