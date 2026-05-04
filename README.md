@@ -11,6 +11,7 @@
 
 
 
+
 <!-- ========= START REPO TITLE ========= -->
 # <p align="center"> 🔐 [AI Incidents in Banking, Financial Services and Fintech]()
 
@@ -19,6 +20,8 @@
 <br><br>
 
 <!-- ========= END REPO TITLE ========= -->
+
+
 
 
 <!-- ========= START DashBoar Streamlit -->
@@ -31,29 +34,41 @@
     />
   </a>
 </p>
-
 <!-- ========= END Dashboard Streamlit -->
 
 <p align="center">
-  <a href="https://stellar-fenglisu-9274fc.netlify.app/">
+  <a href="https://stellar-fenglisu-9274fc.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/React-Interactive%20Slides-115e59?style=for-the-badge&logo=react&logoColor=white" 
+      src="https://img.shields.io/badge/React-Interactive%20Slides-14532d?style=for-the-badge&logo=react&logoColor=white" 
       alt="React Interactive Slides"
       style="height: 30px; width: auto;"
     />
   </a>
 
-  <a href="https://docs.google.com/presentation/d/1CeNA6D3Va2X8nc0dVeD1BKxV97d1SI-v/edit?slide=id.p1#slide=id.p1">
+  <a href="https://docs.google.com/presentation/d/1CeNA6D3Va2X8nc0dVeD1BKxV97d1SI-v/edit?slide=id.p1#slide=id.p1" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/PPTX-Strategic%20Presentation-0f766e?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" 
       alt="PPTX Strategic Presentation"
       style="height: 30px; width: auto;"
     />
   </a>
+</p>
 <!-- ========= END PPTX -->
 
+<!-- ========= START DATA ANALYSING REPORT ========= -->
+<p align="center">
+  <a href="https://github.com/Quantum-Software-Development/4-cybersecurity-social-engineering-project-ai-risk-intelligence-financial-incidents-analytics/blob/5f4ae57543d61147d765d707852d85f616c09f1b/Data%20Analysing%20Report/%F0%9F%87%AC%F0%9F%87%A7data_analysis_report_abnt%20.pdf" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Data%20Analysing-Executive%20Report-134e4a?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=022c22" 
+      alt="Data Analysing Executive Report"
+      style="height: 30px; width: auto;"
+    />
+  </a>
+</p>
+<!-- ========= END DATA ANALYSING REPORT ========= -->
+
 <br><br><br><br>
-<!-- ========= END BADGE  ========= -->
+<!-- ========= END BADGE ========= -->
 
 
 
